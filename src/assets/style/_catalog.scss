@@ -1,0 +1,135 @@
+.catalog__content {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 288px 1fr;
+    @media(max-width: $laptop) {
+        grid-template-columns: 230px 1fr;
+    }
+    @media(max-width: $tablet) {
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+    }
+}
+
+.catalog-nav {
+    background-color: $color-light-gray;
+    padding: 30px;
+    height: fit-content;
+}
+
+.catalog-nav__image {
+    width: 30px;
+    height: 30px;
+}
+
+.catalog-nav__title {
+    @include font(30px, 700);
+    margin-bottom: 30px;
+    @media(max-width: $tablet) {
+        text-align: center;
+    }
+}
+
+.catalog-nav__list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    list-style-type: none;
+    padding: 0;
+
+    @media(max-width: $tablet) {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+}
+
+.catalog-nav__item {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.catalog-list {
+    display: flex;
+    list-style-type: none;
+    gap: 30px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    @media(max-width: $laptop) {
+        padding: 0;
+    }
+}
+
+.catalog-item {
+    background-color: $color-light-gray;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+    max-width: 265px;
+    @media(max-width: $laptop) {
+        max-width: 220px;
+    }
+    @media(max-width: $tablet) {
+        max-width: 300px;
+    }
+}
+
+.catalog-item__title {
+    @include font(30px, 700);
+}
+
+.catalog-item__image {
+    width: 265px;
+    height: 265px;
+    @media(max-width: $laptop) {
+        width: 220px;
+        height: 220px;
+    }
+    @media(max-width: $tablet) {
+        width: 300px;
+        height: 300px;
+    }
+}
+
+.catalog-item__info {
+    display: flex;
+    flex-direction: column;
+    padding: 15px 10px 20px;
+    gap: 10px
+}
+
+.catalog-item__title {
+    @include font(20px, 700);
+}
+
+.catalog-item__brand {
+    @include font(14px, 400);
+}
+
+.catalog-item__price {
+    @include font(24px, 700);
+    padding: 7px;
+}
+
+.catalog-item__button  {
+    background: $color-green;
+    border: 1px solid #43494d;
+    border-radius: 4px;
+    color: $color-text;
+    cursor: pointer;
+    @include font(16px, 400);
+    padding: 14px;
+    &:hover {
+        background: #25d698;
+    }
+}
+
+.catalog-item__stock {
+    @include font(16px, 400);
+    align-self: end;
+}
+
