@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+<products>
+  <row>
+    <id>1</id>
+    <title>iPhone 14 PRO</title>
+    <description>Apple iOS, экран 6.1 OLED (1179x2556) 120 Гц, Apple A16 Bionic, ОЗУ 6 ГБ, память 128 ГБ, камера 48 Мп, 1 SIM, влагозащита IP68</description>
+    <price>3725</price>
+    <discountPercentage>12.96</discountPercentage>
+    <rating>4.69</rating>
+    <stock>94</stock>
+    <brand>Apple</brand>
+    <category>Телефон</category>
+    <thumbnail>https://i.dummyjson.com/data/products/1/thumbnail.jpg</thumbnail>
+    <images>https://content2.onliner.by/catalog/device/main/ed7ac8318a33dee07aecbc52d11888b7.jpeg</images>
+    <images>https://content2.onliner.by/catalog/device/main/c39679a7684f2107c5ce1bcb71eaf4b4.jpeg</images>
+    <images>https://content2.onliner.by/catalog/device/main/236574722d8da57c4d6b288b424c0a2c.jpeg</images>
+  </row>
+  <row>
+    <id>2</id>
+    <title>iPhone X</title>
+    <description>SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...</description>
+    <price>899</price>
+    <discountPercentage>17.94</discountPercentage>
+    <rating>4.44</rating>
+    <stock>34</stock>
+    <brand>Apple</brand>
+    <category>Телефон</category>
+    <thumbnail>https://i.dummyjson.com/data/products/2/thumbnail.jpg</thumbnail>
+    <images>https://i.dummyjson.com/data/products/2/1.jpg</images>
+    <images>https://i.dummyjson.com/data/products/2/2.jpg</images>
+    <images>https://i.dummyjson.com/data/products/2/3.jpg</images>
+    <images>https://i.dummyjson.com/data/products/2/thumbnail.jpg</images>
+  </row>
+  <row>
+    <id>3</id>
+    <title>Samsung Universe 9</title>
+    <description>Samsung&#x27;s new variant which goes beyond Galaxy to the Universe</description>
+    <price>1249</price>
+    <discountPercentage>15.46</discountPercentage>
+    <rating>4.09</rating>
+    <stock>36</stock>
+    <brand>Samsung</brand>
+    <category>Телефон</category>
+    <thumbnail>https://i.dummyjson.com/data/products/3/thumbnail.jpg</thumbnail>
+    <images>https://i.dummyjson.com/data/products/3/1.jpg</images>
+    <images>https://i.dummyjson.com/data/products/3/1.jpg</images>
+  </row>
+  <row>
+    <id>4</id>
+    <title>OPPOF19</title>
+    <description>OPPO F19 is officially announced on April 2021.</description>
+    <price>280</price>
+    <discountPercentage>399</discountPercentage>
+    <rating>4.3</rating>
+    <stock>123</stock>
+    <brand>OPPO</brand>
+    <category>Телефон</category>
+    <thumbnail>https://i.dummyjson.com/data/products/4/thumbnail.jpg</thumbnail>
+    <images>https://i.dummyjson.com/data/products/4/1.jpg</images>
+    <images>https://i.dummyjson.com/data/products/4/2.jpg</images>
+    <images>https://i.dummyjson.com/data/products/4/3.jpg</images>
+    <images>https://i.dummyjson.com/data/products/4/4.jpg</images>
+    <images>https://i.dummyjson.com/data/products/4/thumbnail.jpg</images>
+  </row>
+  <row>
+    <id>5</id>
+    <title>Huawei P30</title>
+    <description>Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.</description>
+    <price>499</price>
+    <discountPercentage>10.58</discountPercentage>
+    <rating>4.09</rating>
+    <stock>32</stock>
+    <brand>Huawei</brand>
+    <category>Телефон</category>
+    <thumbnail>https://i.dummyjson.com/data/products/5/thumbnail.jpg</thumbnail>
+    <images>https://i.dummyjson.com/data/products/5/1.jpg</images>
+    <images>https://i.dummyjson.com/data/products/5/2.jpg</images>
+    <images>https://i.dummyjson.com/data/products/5/3.jpg</images>
+  </row>
+  <row>
+    <id>6</id>
+    <title>MacBook Pro</title>
+    <description>MacBook Pro 2021 with mini-LED display may launch between September, November</description>
+    <price>1749</price>
+    <discountPercentage>11.02</discountPercentage>
+    <rating>4.57</rating>
+    <stock>83</stock>
+    <brand>APPle</brand>
+    <category>Ноутбуки</category>
+    <thumbnail>https://i.dummyjson.com/data/products/6/thumbnail.png</thumbnail>
+    <images>https://i.dummyjson.com/data/products/6/1.png</images>
+    <images>https://i.dummyjson.com/data/products/6/2.jpg</images>
+    <images>https://i.dummyjson.com/data/products/6/3.png</images>
+    <images>https://i.dummyjson.com/data/products/6/4.jpg</images>
+  </row>
+  <row>
+    <id>7</id>
+    <title>Samsung Galaxy Book</title>
+    <description>Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched</description>
+    <price>1499</price>
+    <discountPercentage>4.15</discountPercentage>
+    <rating>4.25</rating>
+    <stock>50</stock>
+    <brand>Samsung</brand>
+    <category>Ноутбуки</category>
+    <thumbnail>https://i.dummyjson.com/data/products/7/thumbnail.jpg</thumbnail>
+    <images>https://i.dummyjson.com/data/products/7/1.jpg</images>
+    <images>https://i.dummyjson.com/data/products/7/2.jpg</images>
+    <images>https://i.dummyjson.com/data/products/7/3.jpg</images>
+    <images>https://i.dummyjson.com/data/products/7/thumbnail.jpg</images>
+  </row>
+  <row>
+    <id>8</id>
+    <title>Microsoft Surface Laptop 4</title>
+    <description>Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.</description>
+    <price>1499</price>
+    <discountPercentage>10.23</discountPercentage>
+    <rating>4.43</rating>
+    <stock>68</stock>
+    <brand>Microsoft Surface</brand>
+    <category>Ноутбуки</category>
+    <thumbnail>https://i.dummyjson.com/data/products/8/thumbnail.jpg</thumbnail>
+    <images>https://i.dummyjson.com/data/products/8/1.jpg</images>
+    <images>https://i.dummyjson.com/data/products/8/2.jpg</images>
+    <images>https://i.dummyjson.com/data/products/8/3.jpg</images>
+    <images>https://i.dummyjson.com/data/products/8/4.jpg</images>
+    <images>https://i.dummyjson.com/data/products/8/thumbnail.jpg</images>
+  </row>
+  <row>
+    <id>9</id>
+    <title>Infinix INBOOK</title>
+    <description>Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty</description>
+    <price>1099</price>
+    <discountPercentage>11.83</discountPercentage>
+    <rating>4.54</rating>
+    <stock>96</stock>
+    <brand>Infinix</brand>
+    <category>Ноутбуки</category>
+    <thumbnail>https://i.dummyjson.com/data/products/9/thumbnail.jpg</thumbnail>
+    <images>https://i.dummyjson.com/data/products/9/1.jpg</images>
+    <images>https://i.dummyjson.com/data/products/9/2.png</images>
+    <images>https://i.dummyjson.com/data/products/9/3.png</images>
+    <images>https://i.dummyjson.com/data/products/9/4.jpg</images>
+    <images>https://i.dummyjson.com/data/products/9/thumbnail.jpg</images>
+  </row>
+  <row>
+    <id>10</id>
+    <title>HP Pavilion 15-DK1056WM</title>
+    <description>HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10</description>
+    <price>3099</price>
+    <discountPercentage>6.18</discountPercentage>
+    <rating>4.43</rating>
+    <stock>89</stock>
+    <brand>HP Pavilion</brand>
+    <category>Ноутбуки</category>
+    <thumbnail>https://i.dummyjson.com/data/products/10/thumbnail.jpeg</thumbnail>
+    <images>https://i.dummyjson.com/data/products/10/1.jpg</images>
+    <images>https://i.dummyjson.com/data/products/10/2.jpg</images>
+    <images>https://i.dummyjson.com/data/products/10/3.jpg</images>
+    <images>https://i.dummyjson.com/data/products/10/thumbnail.jpeg</images>
+  </row>
+  <row>
+    <id>11</id>
+    <title>Corded Keyboard K280e</title>
+    <description>multimedia for PC, membrane, plastic, connection interface - USB, moisture protection, color black</description>
+    <price>1399</price>
+    <discountPercentage>8.4</discountPercentage>
+    <rating>4.26</rating>
+    <stock>65</stock>
+    <brand>Logitech</brand>
+    <category>Клавиатуры</category>
+    <thumbnail>https://content2.onliner.by/catalog/device/main/a041bba1cb089b74b4510f11bc8471f1.jpeg</thumbnail>
+    <images>https://content2.onliner.by/catalog/device/main/a041bba1cb089b74b4510f11bc8471f1.jpeg</images>
+    <images>https://content2.onliner.by/catalog/device/main/118f2d6ded22d7b83406ce09ee1d10c9.jpeg</images>
+    <images>https://i.dummyjson.com/data/products/11/3.jpg</images>
+    <images>https://i.dummyjson.com/data/products/11/thumbnail.jpg</images>
+  </row>
+  <row>
+    <id>12</id>
+    <title>Logitech G413 </title>
+    <description>gaming for PC, mechanical, Logitech Romer-G Tactile, tactile/click stroke, metal top panel, connection interface - USB, backlight, USB hub, color black</description>
+    <price>40</price>
+    <discountPercentage>15.66</discountPercentage>
+    <rating>4</rating>
+    <stock>52</stock>
+    <brand>Logitech</brand>
+    <category>Клавиатуры</category>
+    <thumbnail>https://content2.onliner.by/catalog/device/main/96ee5d11712d8d1a054f20ebbce4bfd8.jpeg</thumbnail>
+    <images>https://content2.onliner.by/catalog/device/main/96ee5d11712d8d1a054f20ebbce4bfd8.jpeg</images>
+    <images>https://content2.onliner.by/catalog/device/main/37f6ba93f48d0c1ba2c997039dc2b500.jpeg</images>
+    <images>https://i.dummyjson.com/data/products/12/3.png</images>
+    <images>https://i.dummyjson.com/data/products/12/4.jpg</images>
+    <images>https://i.dummyjson.com/data/products/12/thumbnail.jpg</images>
+  </row>
+  <row>
+    <id>13</id>
+    <title>Samsung C24RG50FZI</title>
+    <description>23.5, 16:9, 1920x1080, VA, curved (1800R), 144Hz, AMD FreeSync, HDMI+DisplayPort interfaces</description>
+    <price>1300</price>
+    <discountPercentage>8.14</discountPercentage>
+    <rating>4.59</rating>
+    <stock>61</stock>
+    <brand>Samsung</brand>
+    <category>Мониторы</category>
+    <thumbnail>https://content2.onliner.by/catalog/device/main/b6accc982f219e0c7bf941a2b333f04e.jpeg</thumbnail>
+    <images>https://content2.onliner.by/catalog/device/main/b6accc982f219e0c7bf941a2b333f04e.jpeg</images>
+    <images>https://content2.onliner.by/catalog/device/main/f99ca626da2285279020360deb4e3d75.jpeg</images>
+    <images>https://i.dummyjson.com/data/products/13/4.jpg</images>
+    <images>https://i.dummyjson.com/data/products/13/thumbnail.webp</images>
+  </row>
+  <row>
+    <id>14</id>
+    <title>ASUS TUF Gaming VG279Q1A</title>
+    <description>27, 16:9, 1920x1080, IPS, 165Hz, AMD FreeSync Premium/NVIDIA G-Sync compatible, Speakers, HDMI+DisplayPort</description>
+    <price>460</price>
+    <discountPercentage>8.14</discountPercentage>
+    <rating>3.9</rating>
+    <stock>61</stock>
+    <brand>ASUS</brand>
+    <category>Мониторы</category>
+    <thumbnail>https://content2.onliner.by/catalog/device/main/5e0e7f6ba3e421da2dd2d3a5a8902dc1.jpeg</thumbnail>
+    <images>https://content2.onliner.by/catalog/device/main/5e0e7f6ba3e421da2dd2d3a5a8902dc1.jpeg</images>
+    <images>https://content2.onliner.by/catalog/device/main/0aef4eb5eec0553b14470f30f00d3ec0.jpeg</images>
+    <images>https://i.dummyjson.com/data/products/13/4.jpg</images>
+    <images>https://i.dummyjson.com/data/products/13/thumbnail.webp</images>
+  </row>
+  <row>
+    <id>15</id>
+    <title>LG UltraGear 32GN600-B</title>
+    <description>31.5, 16:9, 2560x1440, VA, 165Hz, AMD FreeSync/NVIDIA G-Sync compatible, HDMI+DisplayPort interfaces</description>
+    <price>1699</price>
+    <discountPercentage>8.14</discountPercentage>
+    <rating>3.68</rating>
+    <stock>610</stock>
+    <brand>LG</brand>
+    <category>Мониторы</category>
+    <thumbnail>https://content2.onliner.by/catalog/device/main/a3448aae5da90f38c5a30c50c6fb88f9.jpeg</thumbnail>
+    <images>https://content2.onliner.by/catalog/device/main/a3448aae5da90f38c5a30c50c6fb88f9.jpeg</images>
+    <images>https://content2.onliner.by/catalog/device/main/0256dc088224332e49c80ff7ac9b91ea.jpeg</images>
+    <images>https://i.dummyjson.com/data/products/13/thumbnail.webp</images>
+  </row>
+  <row>
+    <id>16</id>
+    <title>Samsung Odyssey G5 C27G55TQW</title>
+    <description>27, 16:9, 2560x1440, VA Curved (1000R), 144Hz, AMD FreeSync Premium, HDMI+DisplayPort interfaces</description>
+    <price>960</price>
+    <discountPercentage>8.14</discountPercentage>
+    <rating>4.68</rating>
+    <stock>1161</stock>
+    <brand>Samsung</brand>
+    <category>Мониторы</category>
+    <thumbnail>https://content2.onliner.by/catalog/device/main/fdfb213bad3a62b242a7515c877a109d.jpeg</thumbnail>
+    <images>https://content2.onliner.by/catalog/device/main/fdfb213bad3a62b242a7515c877a109d.jpeg</images>
+    <images>https://content2.onliner.by/catalog/device/main/cdb0782a306464d0f7145d748fa42c05.jpeg</images>
+    <images>https://i.dummyjson.com/data/products/13/thumbnail.webp</images>
+  </row>
+  <row>
+    <id>17</id>
+    <title>Jet Gamer 5i10400FD16SD24X105</title>
+    <description>gaming (gaming), CPU Intel Core i5 10400F 2900 MHz, RAM DDR4 16 GB, SSD 240 GB, graphics: NVIDIA GeForce GTX 1050 Ti 4 GB, PSU 500 W, no OS</description>
+    <price>178</price>
+    <discountPercentage>8.14</discountPercentage>
+    <rating>4.79</rating>
+    <stock>61</stock>
+    <brand>Jet</brand>
+    <category>Компьютеры</category>
+    <thumbnail>https://content2.onliner.by/catalog/device/main/575e6ec9ecfc81c7f7d7948ffac441fb.jpeg</thumbnail>
+    <images>https://content2.onliner.by/catalog/device/main/575e6ec9ecfc81c7f7d7948ffac441fb.jpeg</images>
+    <images>https://content2.onliner.by/catalog/device/main/6ed480e96c353b883ef13631bb653eff.jpeg</images>
+    <images>https://i.dummyjson.com/data/products/13/thumbnail.webp</images>
+  </row>
+  <row>
+    <id>18</id>
+    <title>MultiGame 5C104FD16S256G305</title>
+    <description>gaming (gaming)/home, CPU Intel Core i5 10400F 2900 MHz, RAM DDR4 16 GB, SSD 256 GB, graphics: NVIDIA GeForce RTX 3050 8 GB, PSU 600 W, no OS</description>
+    <price>278</price>
+    <discountPercentage>8.14</discountPercentage>
+    <rating>4.22</rating>
+    <stock>61</stock>
+    <brand>MultiGame</brand>
+    <category>Компьютеры</category>
+    <thumbnail>https://content2.onliner.by/catalog/device/main/cbb4015504c23df910577caccafc9719.jpeg</thumbnail>
+    <images>https://content2.onliner.by/catalog/device/main/cbb4015504c23df910577caccafc9719.jpeg</images>
+    <images>image.png</images>
+  </row>
+  <row>
+    <id>19</id>
+    <title>MultiGame FK BY X-Game 138365</title>
+    <description>игровой (геймерский), CPU Intel Core i5 10400F 2900 МГц, RAM DDR4 16 ГБ, SSD+HDD 1000+240 ГБ, графика: NVIDIA GeForce GTX 1650 Super 4 ГБ, БП 500 Вт</description>
+    <price>578</price>
+    <discountPercentage>8.14</discountPercentage>
+    <rating>4.29</rating>
+    <stock>61</stock>
+    <brand>MultiGame</brand>
+    <category>Компьютеры</category>
+    <thumbnail>https://con</thumbnail>
+    <images>https://content2.onliner.by/catalog/device/main/b0d484f353d60f9596ec5bbcaae668f4.jpeg</images>
+    <images>https://content2.onliner.by/catalog/device/main/ec0775d0661df259e2ce26e758137a81.jpeg</images>
+  </row>
+  <row>
+    <id>20</id>
+    <title>JetGamer 5R5600GD16SD96X</title>
+    <description>игровой (геймерский), CPU AMD Ryzen 5 5600G 3900 МГц, RAM DDR4 16 ГБ, SSD 960 ГБ, графика: NVIDIA GeForce RTX 3060 Ti 8 ГБ, БП 700 Вт, без ОС</description>
+    <price>2578</price>
+    <discountPercentage>8.14</discountPercentage>
+    <rating>4.29</rating>
+    <stock>61</stock>
+    <brand>Jet</brand>
+    <category>Компьютеры</category>
+    <thumbnail>https://con</thumbnail>
+    <images>https://content2.onliner.by/catalog/device/main/e34770b51a398b31fdcff36cbfa4140e.jpeg</images>
+    <images>https://content2.onliner.by/catalog/device/main/eec64b70bf3af9588c2c3eb565aa591f.jpeg</images>
+  </row>
+  </products>
+</root>
