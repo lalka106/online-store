@@ -32,7 +32,7 @@ fetch("../../products.xml").then(response => {
         console.log(id, title, brand, price, stock, images);
         catalogList.innerHTML +=
             `<li class="catalog-item">
-        <img class="catalog-item__image" style="background: url(${images[0].textContent}) 0% 0% / cover; display: inline-flex;">
+        <img class="catalog-item__image" style="background: url(${images[0].textContent}) 0% 0% / cover; display: inline-flex; border-top-right-radius:20px;border-top-left-radius:20px">
         <div class="catalog-item__info">
             <h3 class="catalog-item__title">${title}</h3>
             <p class="catalog-item__brand">${brand}</p>
@@ -56,4 +56,4 @@ const openMenu = () => {
     burgerMenu.classList.toggle('active');
 }
 
-burgerMenu.addEventListener('click' , openMenu);
+burgerMenu.addEventListener('click', openMenu);
